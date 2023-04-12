@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TAKAYAMAN2180</h1>
 
-<div style="display: flex;justify-content: center;align-items: center; ">
+<div align="center">
 <div style="margin: 2px 5px">
 <a href="https://qiita.com/TAKAYAMAN2180"><img alt="Qiita post" src="https://qiita-badge.apiapi.app/s/TAKAYAMAN2180/posts.svg"/></a>
 </div><div style="margin: 2px 5px">
