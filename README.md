@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://qiita.com/TAKAYAMAN2180](https://qiita.com/TAKAYAMAN2180)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={TAKAYAMAN2180})](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAKAYAMAN2180)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
