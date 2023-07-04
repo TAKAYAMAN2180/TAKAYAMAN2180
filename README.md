@@ -3,14 +3,15 @@
 <div align="center">
 <a style="margin: 5px" href="https://qiita.com/TAKAYAMAN2180"><img alt="Qiita post" src="https://qiita-badge.apiapi.app/s/TAKAYAMAN2180/posts.svg"/></a>
 <a style="margin: 5px" href="https://qiita.com/TAKAYAMAN2180"><img alt="Qiita Contributions" src="https://qiita-badge.apiapi.app/s/TAKAYAMAN2180/contributions.svg"/></a>
-  <br>
+  <br/>
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAKAYAMAN2180&layout=compact&show_icons=true&theme=onedark" />
 </div>  
 
 
 <div align="center">- 📝 I regularly write articles on <a href="https://qiita.com/TAKAYAMAN2180">https://qiita.com/TAKAYAMAN2180</a></div>
 
-  <br>
+  <br/>
+  <br/>
 
 <div align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
