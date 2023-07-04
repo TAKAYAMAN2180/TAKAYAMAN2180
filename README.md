@@ -3,9 +3,8 @@
 <div align="center">
 <a style="margin: 5px" href="https://qiita.com/TAKAYAMAN2180"><img alt="Qiita post" src="https://qiita-badge.apiapi.app/s/TAKAYAMAN2180/posts.svg"/></a>
 <a style="margin: 5px" href="https://qiita.com/TAKAYAMAN2180"><img alt="Qiita Contributions" src="https://qiita-badge.apiapi.app/s/TAKAYAMAN2180/contributions.svg"/></a>
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={名前}&layout=compact&show_icons=true&theme=onedark" />
 </div>  
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAKAYAMAN2180)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 📝 I regularly write articles on [https://qiita.com/TAKAYAMAN2180](https://qiita.com/TAKAYAMAN2180)
