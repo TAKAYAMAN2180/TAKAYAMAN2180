@@ -8,7 +8,7 @@
 </div>  
 
 
-- 📝 I regularly write articles on [https://qiita.com/TAKAYAMAN2180](https://qiita.com/TAKAYAMAN2180)
+<div align="center">- 📝 I regularly write articles on <a href="https://qiita.com/TAKAYAMAN2180">https://qiita.com/TAKAYAMAN2180</a></div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
