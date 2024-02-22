@@ -8,7 +8,7 @@
 </div>  
 
 
-<div align="center">- 🏢 I am CTO at <a href="jobs-tokyo.com">Jobs Inc.</a></div>
+<div align="center">- 🏢 I am CTO at <a href="https://jobs-tokyo.com">Jobs Inc.</a></div>
 <div align="center">- 📝 I regularly write articles on <a href="https://qiita.com/TAKAYAMAN2180">https://qiita.com/TAKAYAMAN2180</a></div>
 
 
